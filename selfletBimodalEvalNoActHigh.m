@@ -1,0 +1,1 @@
+bimodalNoActHigh = selfletEvaluateTests( 'run/final/bimodal/noaction/', 25200, 45, 0.0161, false);

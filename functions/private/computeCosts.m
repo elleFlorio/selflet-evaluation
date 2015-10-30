@@ -1,0 +1,1 @@
+[costEvalSelflet costTotal] = selfletComputeCostSelflet(lifetime, instanceCost);

@@ -1,0 +1,5 @@
+function selfletPlotUtilizationSelfletAvg( utilizationTableSelfletAvg, sendToPlotly )
+
+selfletCreateFigureUtilizationSelfletAvg(utilizationTableSelfletAvg.selflet, utilizationTableSelfletAvg.utilization, sendToPlotly)
+
+end
